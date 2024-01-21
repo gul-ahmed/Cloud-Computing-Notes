@@ -49,7 +49,7 @@ Cloud computing offers services through various models, each defining the level 
 | **Platform as a Service (PaaS)** | Offers a platform that includes not only the infrastructure but also the tools and services needed to develop, test, and deploy applications without worrying about the underlying hardware or software. It simplifies the development process. | Google App Engine, Heroku.                  |
 | **Software as a Service (SaaS)** | Delivers software applications over the internet on a subscription basis. Users can access the software through a web browser without the need for installation and maintenance. It's a ready-to-use solution. | Google Workspace, Salesforce, Microsoft 365. |
 
-
+![Service Model](https://github.com/gul-ahmed/Cloud-Computing-Notes/blob/main/1.png)
 
 
 
