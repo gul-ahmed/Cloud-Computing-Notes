@@ -102,10 +102,10 @@ Often, these models are used in combination to create a comprehensive and flexib
 ## What Is a Shared Responsibility Model? 
 A shared responsibility model is a framework used in the cloud computing world to define the respective security responsibilities of the customer and the cloud provider. In this model, the cloud service provider is obligated to secure the underlying infrastructure of the cloud, including physical security, network security, and hypervisor security. The customer, on the other hand, retains the responsibility for securing the data and applications they store and use in the cloud environment, including access control, data encryption, and security configuration.
 
-- CUSTOMER = RESPONSIBILITY FOR THE SECURITY IN THE CLOUD
-- AWS = RESPONSIBILITY FOR THE SECURITY OF THE CLOUD
+- **CUSTOMER** = RESPONSIBILITY FOR THE SECURITY **IN** THE CLOUD
+- **CLOUD PROVIDER** = RESPONSIBILITY FOR THE SECURITY **OF** THE CLOUD
 
-
+![Service Model](https://github.com/gul-ahmed/Cloud-Computing-Notes/blob/main/Shared%20Responsibility.png)
 
 
 
